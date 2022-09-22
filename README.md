@@ -7,7 +7,7 @@ Python installed on system. No need to worry about tkinter it comes with the pyt
 # Code
 How the program works is all written down in the file to help understanding what is going on easier. Here is a quick over view of the program's layout. Read the comments to get a better understanding in the main.py file.
 
-- **Create Database** - The starting code makes the database file and creates tables or connects to the file if it already exist using sqlite.
+- **Create Database** - The starting code makes the database file and creates tables or connects to the file if it already exist using ***sqlite***.
 
 - **Pages** - The GUI class is used to travel in between pages and is called the controller for each page and every class after that is it's own page with it's own functions. Each page first has the functions for that page listed on top and the visual UI section right below that. The only page that doesn't have its own distinct functions is the Start Page. The Note and NoteCreation page are related to each other so they interact with what is displayed on one another making frames be attributes to the class.
 
