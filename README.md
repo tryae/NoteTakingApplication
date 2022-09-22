@@ -14,6 +14,5 @@ How the program works is all written down in the file to help understanding what
 - **Support Functions** - the support functions are what make any action on that page possible. They remove errors that might of popped up if a user input something wrong or can save and delete notes with a press of a button.
 
 ## Note
-<hr>
 Users are not required to have passwords
 
